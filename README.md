@@ -2,7 +2,7 @@ Run your own surge alert server
 
 1	Register for UBER API access, and obtain a token
 
-2	Fork this project
+2	Create a GitHub account and fork this project
 
 3	Edit the file views.py in /surgealert/views.py:
 
@@ -10,8 +10,12 @@ Run your own surge alert server
 
 5	Commit the changes
 
-6	Create a Heroku account and install the Heroku toolbelt
+6	Deploy to Heroku from Git Hub and you're done; 
 
-7	Use this guide to upload your local surge alert repository https://devcenter.heroku.com/articles/git
+or 
 
-8	Your app will now be live on heroku
+7.Create a Heroku account and install the Heroku toolbelt. Clone your repository locally
+
+8	Use this guide to upload your local surge alert repository https://devcenter.heroku.com/articles/git
+
+9	Your app will now be live on heroku
